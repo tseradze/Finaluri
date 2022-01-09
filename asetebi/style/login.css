@@ -1,0 +1,10 @@
+.col-3{
+    max-width: 30%;
+}
+.sign-up{
+    margin: 20px 0;
+}
+.sign-up a{
+    color: #fff;
+    text-decoration: none;
+}

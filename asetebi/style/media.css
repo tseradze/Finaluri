@@ -1,0 +1,11 @@
+@media only screen and ( max-width:1000px){
+    .navigation span{
+        display: none;
+    }
+    .cart{
+        display: none;
+    }
+    .extention-container{
+        align-content: space-between;
+    }
+}
