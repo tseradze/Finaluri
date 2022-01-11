@@ -46,7 +46,7 @@ body{
     align-items: center;
     width: 145px;
     margin-top: -45px;
-    margin-right: 130px;
+    padding-left: 850px;
 }
 .you-cart-color{
     color:  orangered;
@@ -168,7 +168,7 @@ body{
 .card-extention-container{
     display: flex;
     flex-wrap: wrap;
-    justify-content: start;
+    justify-content: center;
     margin-top: 130px;
     margin-left: -1002px;
     gap: 100px;
